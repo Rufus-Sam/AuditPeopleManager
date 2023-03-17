@@ -1,0 +1,11 @@
+.headerLogo {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
+.container {
+  margin: 0;
+}
+.navbar-brand {
+  width: 100px;
+}
